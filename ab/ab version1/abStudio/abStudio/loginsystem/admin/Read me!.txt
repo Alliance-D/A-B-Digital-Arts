@@ -1,0 +1,9 @@
+Deveoped by David Gloire
+
+ADMIN CREDENTIALS
+====================
+
+USERNAME: admin
+PASSWORD: abstudio
+
+contact developer: davidgloire01@gmail.com
